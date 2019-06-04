@@ -1,7 +1,6 @@
 # Heatmap
 Geospatial heatmap with Folium
 
-![Screenshot](GeoHeat1200.png)
 
 The data is sourced from NYC Open Data- Historic Crime Data
 
