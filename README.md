@@ -17,4 +17,5 @@ The analysis of Demographic data is done with respect to the individual boroughs
 
 
 This is a small piece from the project - https://github.com/wilfy9249/Capstone-Fall-18
+
 Please click this link to explore the complete project.
